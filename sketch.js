@@ -3,7 +3,7 @@ let points;
 let bounds;
 
 function preload() {
-  font = loadFont('./assets/AbrilFatface-Regular.ttf');
+  font = loadFont('AbrilFatface-Regular.ttf');
 }
 
 function setup() {
